@@ -1,6 +1,6 @@
 using System;
 
-namespace calculator
+namespace calculator1
 {
     public class Subtraction
     {
